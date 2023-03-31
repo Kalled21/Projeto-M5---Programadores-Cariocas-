@@ -16,7 +16,7 @@ necessária a importação de três bibliotecas:</h6>
 O código roda em um laço que recebe as propriedades até a pessoa digitar a palavra: 
 "sair", e quando isso acontece é impresso no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
-<h3> [ Tecnologias Utilizadas] </h3>
+<h3> [Tecnologias Utilizadas] </h3>
 <ul>
 <li>Node.js Command Prompt</li>
 <li>Visual Studio Code</li>
